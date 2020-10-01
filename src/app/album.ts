@@ -1,5 +1,3 @@
-import { type } from "os"
-
 import { Track } from './track';
 
 export interface Album {
